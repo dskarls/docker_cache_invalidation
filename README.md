@@ -2,3 +2,4 @@
 Testing for dynamic cache invalidation in Dockerfiles via `ADD`
 
 MOD
+MOD2
